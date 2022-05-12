@@ -1,10 +1,10 @@
-import listaligada.ListaLigada;
+import listaduplamenteligada.ListaDuplamenteLigada;
 
 public class Teste {
 
     public static void main(String[] args) {
 
-        ListaLigada lista = new ListaLigada();
+        ListaDuplamenteLigada lista = new ListaDuplamenteLigada();
 
         System.out.println(lista);
 
